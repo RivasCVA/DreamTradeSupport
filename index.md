@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Contact Us
 
-You can use the [editor on GitHub](https://github.com/RivasCVA/DreamTrade/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can contact us at any time by emailing us at maxhatpro@gmail.com[maxhatpro@gmail.com].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## WELCOME
+Learn to invest in the real stock market with the Dream Trade app. Practice different trading strategies with Real-Time Prices and Thousands of Companies to choose from without risking your own hard-earned money.
 
-### Markdown
+## PORTFOLIOS
+You will be given a Personal Portfolio to practice your regular investing. If you Register to Compete, do not worry, you will also be given a Competitive Portfolio to trade under for the competition. You can switch between both portfolios at any time to trade as you please.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## TRADING
+You have access to thousands of real-time stocks to trade with. You will be able to place Market, Limit, and Stop Orders for when buying and selling stocks. You can place orders at any time and be notified of when the order is successfully executed.
 
-```markdown
-Syntax highlighted code block
+## COMPETE
+Dream Trade offers Monthly Stock Market Competitions to see who can earn the greatest return in the market within the course of a month. Top competitors are rewarded with Real Cash Prizes at the end of each competition. Download and join the competition now!
 
-# Header 1
-## Header 2
-### Header 3
+## EXPLORE
+Dream Trade offers a list of Market Movers to see which stocks have recently been the Top Gainers, Top Losers, and Most Active. Top Market News will also be available to help you be informed of the latest financial news to assist you with your investing.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RivasCVA/DreamTrade/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Download Now!
