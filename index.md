@@ -1,5 +1,5 @@
 ## Contact Us
-You can contact us at any time by emailing us at maxhatpro@gmail.com.
+You can contact us at any time by emailing us at [maxhatpro@gmail.com](mailto:maxhatpro@gmail.com).
 
 ## Welcome
 Learn to invest in the real stock market with the Dream Trade app. Practice different trading strategies with Real-Time Prices and Thousands of Companies to choose from without risking your own hard-earned money.
