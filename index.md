@@ -1,3 +1,6 @@
+## Download on the App Store
+You can donwload the Dream Trade: Stock Market Sim app by clicking [here](https://apps.apple.com/us/app/id1517485993).
+
 ## Contact Us
 You can contact us at any time by emailing us at [maxhatpro@gmail.com](mailto:maxhatpro@gmail.com).
 
