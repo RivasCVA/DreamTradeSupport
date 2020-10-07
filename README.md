@@ -1,8 +1,8 @@
-# Dream Trade App Support
-Dream Trade: Stock Market Sim [App](https://apps.apple.com/us/app/id1517485993) Support Page
+# Welcome
+This is the [Support Page](https://rivascva.github.io/DreamTradeSupport/) for the iOS app [Dream Trade: Stock Market Sim](https://apps.apple.com/us/app/id1517485993).
 
-# View the App on the App Store
+# View on the App Store
 Click [here](https://apps.apple.com/us/app/id1517485993) to view the app.
 
-# View the Live Support Page
+# View Support Page
 Click [here](https://rivascva.github.io/DreamTradeSupport/) to view the support page.
